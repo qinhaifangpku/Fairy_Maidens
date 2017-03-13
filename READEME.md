@@ -12,7 +12,7 @@
 ## License
 
 Fairy Maidens:  
-:princess::Yuxuan Liu
+:princess::Yuxuan Liu  
 :princess::Linlin Cao  
 :princess::Yun Wang  
 :princess::Haifang Qin  
